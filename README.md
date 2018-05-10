@@ -1,10 +1,10 @@
-# Burger Logger using Node Express Handlebars
+# Burger Logger using Sequelize
 
 ### Overview
 
-This is creating a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!).
+This is creating a burger logger with Sequelize. 
 
 ### Important
 
 * Your app will store every burger in a database, whether devoured or not.
-* Make sure you run schema.sql and seeds.sql locally to have a database and table, after cloning github repo
+* Make sure you insert table entries from a MySQL client before initiating server.js using node
